@@ -1,5 +1,39 @@
 ### Hi there 👋
 
+## About Me
+
+- I am a student.
+- I am good coding in JavaScript and TypeScript.
+- New to HTML, CSS, C++.
+- Send me friend requests on [Discord](https://discord.com/users/948807824446742568/).
+
+<hr>
+
+## My Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasonmidul&color=blueviolet"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmidul&layout=compact&theme=dark"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonmidul&border_color=FF0000&show_icons=true&theme=dark"/>
+ </p>
+
+ <hr>
+
+## Social Links
+
+<p align="center"> 
+    <a href="https://discord.com/users/948807824446742568/">Discord</a>
+    ﹒
+    <a href="https://www.facebook.com/profile.php?id=100057328968923">Facebook</a>
+    ﹒
+</p>
+
+<hr>
+
+
+
 <!--
 **jasonmidul/jasonmidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
