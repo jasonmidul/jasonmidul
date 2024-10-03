@@ -3,9 +3,8 @@
 ## About Me
 
 - I am a student.
-- I am good coding in JavaScript and TypeScript.
-- New to HTML, CSS, C++.
-- Send me friend requests on [Discord](https://discord.com/users/948807824446742568/).
+- Trying to do something new.
+- I you wanna talk dm me on [Discord](https://discord.com/users/948807824446742568/).
 
 <hr>
 
