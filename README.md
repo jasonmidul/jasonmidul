@@ -50,8 +50,8 @@
     <a href="https://discord.com/users/948807824446742568/" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100057328968923" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <a href="https://www.instagram.com/jasonmidul/profilecard/?igsh=MXJ0YnhqODR5MWR4cQ==" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
 </p>
 
