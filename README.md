@@ -6,6 +6,7 @@
 ---
 
 ### 🌟 About Me
+<p>I'm Jason Midul, a passionate coder who loves turning ideas into reality through clean and efficient code. Always learning, always building.</p>
 
 - 👨‍🎓 **Student** on a mission to learn, grow, and create.
 - 💡 Love tackling problems, fixing bugs, and exploring cool technologies.
