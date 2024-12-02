@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Library-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tools-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
