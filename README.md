@@ -41,7 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmidul&layout=compact&theme=gruvbox&langs_count=8" alt="Top Languages"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=jasonmidul&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmidul&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
