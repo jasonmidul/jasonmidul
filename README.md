@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Jason Midul! 👋 ✨</h1>
+<h1 align="center">✨ Hey there, I'm Mahorab Hossain Midul! 👋 ✨</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Student+%7C+Learner+%7C+Explorer;Loving+the+journey+of+coding+%F0%9F%92%BB;Always+building+something+new+%F0%9F%94%A7">
 </p>
@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me
-<p>I'm Jason Midul, a passionate coder who loves turning ideas into reality through clean and efficient code. Always learning, always building.</p>
+<p>I'm Mahorab Hossain Midul, a passionate coder who loves turning ideas into reality through clean and efficient code. Always learning, always building.</p>
 
 - 👨‍🎓 **Student** on a mission to learn, grow, and create.
 - 💡 Love tackling problems, fixing bugs, and exploring cool technologies.
