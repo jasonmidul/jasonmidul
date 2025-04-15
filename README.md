@@ -36,11 +36,11 @@
 ### 📊 My Stats
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jasonmidul&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mahorabhossainmidul&color=blueviolet&style=flat-square" alt="Profile Views"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmidul&layout=compact&theme=gruvbox&langs_count=8" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahorabhossainmidul&layout=compact&theme=gruvbox&langs_count=8" alt="Top Languages"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=jasonmidul&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mahorabhossainmidul&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
